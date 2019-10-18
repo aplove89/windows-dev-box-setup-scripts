@@ -13,6 +13,5 @@ choco install -y fiddler
 choco install -y pandoc
 choco install -y filezilla
 choco install -y conemu
-choco install -y docker-for-windows
 choco install -y 7zip.install
 choco install -y procexp
