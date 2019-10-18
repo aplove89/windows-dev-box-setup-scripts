@@ -8,4 +8,5 @@ choco install -y vscode-csharp
 choco install -y git.install --params="'/GitAndUnixToolsOnPath /WindowsTerminal /NoGuiHereIntegration'"
 choco install -y github-desktop
 choco install -y cs-script
+choco install -y azure-data-studio
 choco install -y sql-server-management-studio
